@@ -1,7 +1,7 @@
 # job-posting-keywords
 Python program that produces a list of the most used words in a job description
 
-To use the program (wordCount.py) on a Mac, follow the instructions below.<br />
+To use the program (wordCount.py) on a Mac, follow the instructions below.<br /><br />
 Open the terminal window.<br />
 Make sure Python is installed on the machine by typing "python --version" and pressing enter.<br />
 Navigate to directory where program is stored (using cd command to change directories and ls to list files in each directory).<br />
